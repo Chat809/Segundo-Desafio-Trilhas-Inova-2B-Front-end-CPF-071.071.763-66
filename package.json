@@ -1,0 +1,9 @@
+{
+  "name": "segundo-desafio-trilhas-inova-2b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "live-server"
+  }
+}
